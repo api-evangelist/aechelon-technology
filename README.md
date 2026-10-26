@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aechelon Technology is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.aechelon.com
+Aechelon Technology provides high-fidelity visual and sensor simulation platforms that prepare pilots, operators, and autonomous systems for real-world missions across every domain. Their solutions enable synthetic reality, flight simulation training, geo-specific visualization, and AI/ML machine training, delivering immersive training environments for defense and commercial aviation.
+
+**Areas:** Simulation · AI · Aviation · Defense · Visualization
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.aechelon.com)
+- [Trust centre](https://trust.shield.ai/)
+- [Privacy policy](https://shield.ai/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aechelon-technology/](https://apis.io/providers/aechelon-technology/).
